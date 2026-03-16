@@ -1,17 +1,14 @@
 <div align="center">
-
 # Claude Code 配置（精简版）
-
-> 基于 `cc-use-exp` 提取的 **Claude Code** 配置，仅保留 `.claude/` 相关内容  
-> 按费力度从低到高，用最少操作获得最大帮助
-
 </div>
+
+> 基于 [cc-use-exp](https://github.com/doccker/cc-use-exp) 提取的 **Claude Code** 配置，仅保留 `.claude/` 相关内容  
+> 按费力度从低到高，用最少操作获得最大帮助
 
 ---
 
-## 项目定位（仅 Claude Code）
+## 项目简介
 
-### 使用架构
 
 ```text
 本仓库                     用户目录
